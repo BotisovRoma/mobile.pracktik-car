@@ -1,0 +1,17 @@
+.wrapper {
+    min-height: 100%;
+    max-width: 100%;
+    position: relative;
+}
+
+.content {
+    display: flex;
+    margin: 0 auto;
+    column-gap: 20px;
+}
+
+.img {
+    width: 50%;
+    object-fit: contain;
+    object-position: top left;
+}

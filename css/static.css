@@ -1,0 +1,18 @@
+.wrapper {
+    min-height: 100%;
+    position: relative;
+}
+
+.container {
+    width: 1200px;
+}
+
+.content {
+    display: flex;
+    justify-content: center;
+    column-gap: 20px;
+}
+
+.img {
+    width: 50%;
+}
